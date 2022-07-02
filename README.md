@@ -1,1 +1,1 @@
-# odin-recipe is toy html.The goail si to build a recipe website using html.
+# odin-recipe is a toy html.The goal is to build a recipe website

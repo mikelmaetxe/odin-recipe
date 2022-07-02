@@ -1,1 +1,1 @@
-# odin-recipe is a repository created with learning porpuose. The goail si to buil a recipe website using html.
+# odin-recipe is toy html.The goail si to build a recipe website using html.
